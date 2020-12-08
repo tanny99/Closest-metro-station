@@ -1,0 +1,67 @@
+
+
+              WELCOME
+        Find Out Your Nearest Metro Station!!
+Press 1 to find the list of all metro stations
+Press 2 to find route to your desired metro station
+Press 3 to find the nearest metro station
+Press 4 to print refrence coordinates to there stations
+Press 5 to exit
+Enter choice:metro stations							Latitude	Longitude	
+Noida Electronic City						28.627941	77.37493	
+Noida Sector 62							28.627981	77.3648567	
+Noida Sector 59							28.6075627	77.3683319	
+Noida Sector 61							28.5960875	77.3683319	
+Noida Sector 52							28.5874806	77.3683319	
+Noida Sector 34							28.5838004	77.3597194	
+Noida City Centre						28.5747806	77.3567233	
+Golf Course							37.0561339	-95.9179603	
+Botanical Garden						36.2068298	-96.0621449	
+Noida Sect 18							28.570317	77.3218196	
+Noida Sect 16							28.5773799	77.3144936	
+Noida Sect 15							28.585037	77.3116409	
+New Ashok Nagar							28.5891169	77.3020569	
+Mayur Vihar Ext							28.6146243	77.3121575	
+Mayur Vihar-I							28.6083697	77.293112	
+Akshardham							40.2533659	-74.5774575	
+Yamuna Bank							28.6232773	77.267911	
+Indraprasta							51.0640823	7.0038584	
+Supreme Court							41.6577137	-95.3177505	
+Mandi House							33.4145557	-111.9109164	
+Barakhamba							28.6286321	77.2269889	
+Rajiv Chowk							28.632986	77.219374	
+RK Ashram Marg							28.63922	77.2085967	
+Jhandewalan							28.6472827	77.2028368	
+Karol Bagh							28.6550458	77.1888201	
+Rajendra Place							28.6432533	77.1779925	
+Patel Nagar							28.6554182	77.16462	
+Shadi Pur							28.651027	77.1562196	
+Kirti Nagar							28.6493776	77.1436998	
+Moti Nagar							28.6623452	77.1410809	
+Ramesh Nagar							28.65109	77.1326969	
+Rajouri Garden							28.6417002	77.1224529	
+Tagore Garden							28.648876	77.1096829	
+Subash Nagar							32.7449706	74.8455958	
+Tilak Nagar							28.6389315	77.0866811	
+Janak Puri East							28.6330298	77.0866711	
+Janak Puri West							28.6294195	77.0776578	
+Uttam Nagar East						28.6248053	77.0653064	
+Uttam Nagar West						28.6217542	77.0558111	
+Nawada								24.8866859	85.5434572	
+Dwaraka Mor							28.6191983	77.0322963	
+Dwarka								22.2441975	68.9684562	
+Dwarka Sector - 14						28.6038371	77.0290995	
+Dwarka Sector - 13						28.598662	77.0348573	
+Dwarka Sector - 12						28.5937647	77.0434934	
+Dwarka Sector - 11						28.5914547	77.0492504	
+Dwarka Sector - 10						28.5849492	77.0582844	
+Dwarka Sector - 9						28.5744621	77.0652246	
+Dwarka Sector - 8						28.5720379	77.070837	
+Dwarka Sector - 21						28.5522057	77.0583048	
+Dwarka Sector - 21						28.5522057	77.0583048	
+Press 1 to find the list of all metro stations
+Press 2 to find route to your desired metro station
+Press 3 to find the nearest metro station
+Press 4 to print refrence coordinates to there stations
+Press 5 to exit
+Enter choice:
